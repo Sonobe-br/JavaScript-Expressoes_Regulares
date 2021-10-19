@@ -5,3 +5,10 @@ Uma expressão regular, ou Regex, são padrões utilizados para identificar dete
 As expressões são definidas em sua própria linguagem formal e podemos aplicar o conhecimento dentro da linguagem de nossa preferência. Em outras palavras, linguagens como Java, JavaScript, C# e várias outras possuem uma implementação das expressões regulares e sabem interpretá-la.
 
 =======================================
+
+03 - Regex Engine
+
+O que é um Regex-Engine?
+É um software para interpretar e aplicar a regex.
+Uma expressão regular sozinha é apenas uma string. É preciso ter um software para interpretar a regex e aplicá-la no alvo. Esse software é o Regex Engine que existe para a maioria das plataformas de desenvolvimento, como JavaScript, C#, Python, Ruby ou PHP.
+
